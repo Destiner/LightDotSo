@@ -1,5 +1,11 @@
 # @lightdotso/types
 
+## 0.0.4
+
+### Patch Changes
+
+- [#1892](https://github.com/LightDotSo/LightDotSo/pull/1892) [`7e77bd8`](https://github.com/LightDotSo/LightDotSo/commit/7e77bd82e4656d514bdb00d6b160d7f0fdc5952d) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Finalize intent layer
+
 ## 0.0.3
 
 ### Patch Changes
