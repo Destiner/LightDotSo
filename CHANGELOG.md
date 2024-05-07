@@ -1,5 +1,39 @@
 # Changelog
 
+## [0.2.2](https://github.com/LightDotSo/LightDotSo/compare/v0.2.1...v0.2.2) (2024-05-07)
+
+
+### Features
+
+* ini big edit ([#1882](https://github.com/LightDotSo/LightDotSo/issues/1882)) ([e2bad90](https://github.com/LightDotSo/LightDotSo/commit/e2bad904f475a2e0ab867120f3197ed02ee97e31))
+* ini comparison ([#1869](https://github.com/LightDotSo/LightDotSo/issues/1869)) ([2af959a](https://github.com/LightDotSo/LightDotSo/commit/2af959a9a11a3a200dd24aa1a15986f16a33c9ba))
+* ini concepts ([#1880](https://github.com/LightDotSo/LightDotSo/issues/1880)) ([b85da3b](https://github.com/LightDotSo/LightDotSo/commit/b85da3b57f284a6fa0278f642eb24ef21b23b15a))
+* ini concepts inception ([#1881](https://github.com/LightDotSo/LightDotSo/issues/1881)) ([0690452](https://github.com/LightDotSo/LightDotSo/commit/06904522847374ef99225861cdbc7fed5bb2f840))
+* ini config diagrams ([#1868](https://github.com/LightDotSo/LightDotSo/issues/1868)) ([43e9499](https://github.com/LightDotSo/LightDotSo/commit/43e94998aee21478230f17c30af15be2d261fdbb))
+* ini gas abstraction ([#1865](https://github.com/LightDotSo/LightDotSo/issues/1865)) ([0cf0c2b](https://github.com/LightDotSo/LightDotSo/commit/0cf0c2b9a16d58b5e236ecebca8325caef423a3b))
+* ini key features ([#1888](https://github.com/LightDotSo/LightDotSo/issues/1888)) ([0ed30b2](https://github.com/LightDotSo/LightDotSo/commit/0ed30b2c7c2ff6d35ee6057406353efb555d0fbd))
+* ini keystore sync ([#1889](https://github.com/LightDotSo/LightDotSo/issues/1889)) ([a88c830](https://github.com/LightDotSo/LightDotSo/commit/a88c83049050d3ace772e838817dc021f3acfd92))
+* ini light layer ([#1895](https://github.com/LightDotSo/LightDotSo/issues/1895)) ([4f10d76](https://github.com/LightDotSo/LightDotSo/commit/4f10d768db92d762759bb15d67d503ea1ed951e3))
+* ini package json ([#1909](https://github.com/LightDotSo/LightDotSo/issues/1909)) ([8cce9b1](https://github.com/LightDotSo/LightDotSo/commit/8cce9b10f27e1005b7c2ab2c725e7af3972a2bfc))
+* ini page extension ([#1837](https://github.com/LightDotSo/LightDotSo/issues/1837)) ([df6cb1b](https://github.com/LightDotSo/LightDotSo/commit/df6cb1be87419e7ab8ca02627b54eaf21957387c))
+* ini page features ([#1894](https://github.com/LightDotSo/LightDotSo/issues/1894)) ([ad87f8e](https://github.com/LightDotSo/LightDotSo/commit/ad87f8e66cf6290e93df4a8c29be52323e7ceaeb))
+* ini pages fix ([#1897](https://github.com/LightDotSo/LightDotSo/issues/1897)) ([c4f07af](https://github.com/LightDotSo/LightDotSo/commit/c4f07afbf5df36610c37b6dadcb33db713e798b3))
+* ini paper docs ([#1907](https://github.com/LightDotSo/LightDotSo/issues/1907)) ([b26f038](https://github.com/LightDotSo/LightDotSo/commit/b26f038f162f86f340cc197621e371d4d2db71c8))
+* ini pkg upd ([#1910](https://github.com/LightDotSo/LightDotSo/issues/1910)) ([e97a8da](https://github.com/LightDotSo/LightDotSo/commit/e97a8da7fa0e903047c9c74b6e8342ea3d2b9ea8))
+* ini rpc gas ab ([#1886](https://github.com/LightDotSo/LightDotSo/issues/1886)) ([b266c81](https://github.com/LightDotSo/LightDotSo/commit/b266c81b5ea2820034d6348b767e858ef0c1e306))
+* ini storybook head ([#1872](https://github.com/LightDotSo/LightDotSo/issues/1872)) ([5f29c84](https://github.com/LightDotSo/LightDotSo/commit/5f29c844b208f641cf8f25c4ee3aec0d3fd5506a))
+* ini use-case ([#1891](https://github.com/LightDotSo/LightDotSo/issues/1891)) ([3fdc2e7](https://github.com/LightDotSo/LightDotSo/commit/3fdc2e7dd2686c40ce4262f03960b9c017f64f13))
+
+
+### Bug Fixes
+
+* dead link ([#1866](https://github.com/LightDotSo/LightDotSo/issues/1866)) ([f428f06](https://github.com/LightDotSo/LightDotSo/commit/f428f06a8cb5ac5b5612d5f96530e44a14503e96))
+* ini callouts ([#1867](https://github.com/LightDotSo/LightDotSo/issues/1867)) ([ab5bb2f](https://github.com/LightDotSo/LightDotSo/commit/ab5bb2f23b1ced657c02872e9b4c1ebef7b8f2e9))
+* ini end goal ([#1874](https://github.com/LightDotSo/LightDotSo/issues/1874)) ([b8bc425](https://github.com/LightDotSo/LightDotSo/commit/b8bc425ca0e5ee0530b3370ff46ed4dad6b4713c))
+* ini intro philosophy ([#1862](https://github.com/LightDotSo/LightDotSo/issues/1862)) ([920f17a](https://github.com/LightDotSo/LightDotSo/commit/920f17a72141e083bd7f84b4cb1aa09ed97a1f4d))
+* main stb ([#1873](https://github.com/LightDotSo/LightDotSo/issues/1873)) ([5f1c8d1](https://github.com/LightDotSo/LightDotSo/commit/5f1c8d1d42c27bb2ff9e170c40bbf8961c6098f3))
+* specs ([#1871](https://github.com/LightDotSo/LightDotSo/issues/1871)) ([3333bf1](https://github.com/LightDotSo/LightDotSo/commit/3333bf13b1a06a47616f8afb93b7372a213d8444))
+
 ## [0.2.1](https://github.com/LightDotSo/LightDotSo/compare/v0.2.0...v0.2.1) (2024-04-01)
 
 ### Features
